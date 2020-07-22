@@ -1,5 +1,7 @@
 ### Hi I'm Samuel 👋
 
+  # [![Acquah Samuel header](https://raw.githubusercontent.com/acquahSamuel/acquahSamuel/images/profile.jpg)]
+
   Self-motivated Web Developer with high level of experience working on multiple projects. Passionate and hardworking with penchant for meeting deadlines. Interested in role with company promoting best practices and offering diverse customer projects. Quickly learn and master new technologies and working in both team and self-directed settings.
 <!--
 **acquahsamuel/acquahSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
