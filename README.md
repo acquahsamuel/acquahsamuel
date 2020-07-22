@@ -1,6 +1,6 @@
 ### Hi I'm Samuel 👋
 
-  <img src="images/keyboard.png" alt="Acquah Samuel Profile">
+  <img src="/images/keyboard.png" alt="Acquah Samuel Profile">
   Self-motivated Web Developer with high level of experience working on multiple projects. Passionate and hardworking with penchant for meeting deadlines. Interested in role with company promoting best practices and offering diverse customer projects. Quickly learn and master new technologies and working in both team and self-directed settings.
 
 <!--
