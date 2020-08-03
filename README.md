@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
+<img alt="github status" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [website]: https://acquahsamuel.github.io/profile/
 [instagram]: https://www.instagram.com/acquah.samuel.io/
