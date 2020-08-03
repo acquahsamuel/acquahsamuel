@@ -56,14 +56,14 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
 <a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=dark&hide_langs_below=1" />
-
 </a>
 
 <a href="https://github.com/acquahsamuel">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&theme=dark&line_height=27" alt="Samuel's github stats"/>
 </a>
 
 
