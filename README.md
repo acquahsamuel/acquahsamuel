@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working workport (Onboarding company)
-- 👯 I’m looking to collaborate on node.js with API
+- 🔭 I’m currently working workport (Onboarding company) 
+- 👯 I’m looking to collaborate on node.js | API
 - 🤔 I’m looking for help with @React.js
 - 💬 Ask me about Business | Technology | Javascript | API design | Node backend 
 - ⚡ Fun fact: Talk is cheap, show me the code !
