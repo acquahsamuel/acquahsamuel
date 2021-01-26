@@ -5,19 +5,19 @@
 <!--
 **acquahsamuel/acquahSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 📫 How to reach me: ...
-- 🌱 I’m currently learning Node.js
-😄 Pronouns: ...
 -->
+
+- 🌱 I’m currently learning React
+😄 Pronouns: ...
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working node (Advanced API's) 
-<!--
 - 🔭 I’m currently working workport (Onboarding company) 
--->
-
 - 👯 I’m looking to collaborate on node.js | API
+<!--
 - 🤔 I’m looking for help with @React.js
+-->
 - 💬 Ask me about Business | Technology | Javascript | API design | Node backend 
 - ⚡ Fun fact: Talk is cheap, show me the code !
 
@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<!--
 <img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
--->
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
