@@ -29,11 +29,11 @@ Quickly learn and master new technologies and working in both team and self-dire
 <br />
 
 <a href="https://github.com/acquahsamuel">
- <img align="center" src=" https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=graywhite&show_icons=true&line_height=35" />
 </a>
 
 <a href="https://github.com/acquahsamuel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=graywhite&line_height=35" />
 </a>
 
 [website]: https://acquahsamuel.github.io/profile/
