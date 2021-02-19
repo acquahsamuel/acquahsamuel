@@ -5,61 +5,28 @@ Interested in role with company promoting best practices and offering diverse cu
 Quickly learn and master new technologies and working in both team and self-directed settings.
 
 
-What am about :
+ ##### What am about :
 
-- 🔭 I’m currently working workport (Onboarding company) 
+- 🔭 I’m currently working {Workport}
 - 👯 I’m looking to collaborate on node.js | API
 - 💬 Ask me about Business | Technology | Javascript | API design | Node backend 
 - ⚡ Fun fact: Talk is cheap, show me the code !
 
 
-<!-- ##### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br /> -->
-
  ##### Languages and Tools:
 <img src="images/bootstrap.svg" width=60> | <img src="images/c.svg" width=60> | <img src="images/css3.svg" width=60> | <img src="images/flask.svg" width=60> | <img src="images/git.svg" width=60> | <img src="images/github.svg" width=60> | <img src="images/html5.svg" width=60> | <img src="images/javascript.svg" width=60> | <img src="images/linuxmint.svg" width=60> | <img src="images/mysql.svg" width=60> | <img src="images/postgresql.svg" width=60> | <img src="images/postman.svg" width=60> | <img src="images/python.svg" width=60> | <img src="images/react.svg" width=60> | <img src="images/sqlite.svg" width=60> | <img src="images/ubuntu.svg" width=60> | <img src="images/visualstudiocode.svg" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
 
 <br />
 <br /> 
 
 ##### Connect with me:
-
-[<img align="left" alt="acquah samuel profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="acquah samuel profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
-
-
 
 <a href="https://github.com/acquahsamuel">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&count_private=true&hide=contribs&line_height=40" />
@@ -68,7 +35,6 @@ What am about :
 <a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel" />
 </a>
-
 
 [website]: https://acquahsamuel.github.io/profile/
 [instagram]: https://www.instagram.com/acquah.samuel.io/
