@@ -1,23 +1,17 @@
 ### Hi I'm Samuel 👋
 
-  Self-motivated Software Developer with high level of experience working on multiple projects. Passionate and hardworking with penchant for meeting deadlines. Interested in role with company promoting best practices and offering diverse customer projects. Quickly learn and master new technologies and working in both team and self-directed settings.
-
-<!--
-📫 How to reach me: ...
--->
+Self-motivated Software Developer with high level of experience working on multiple projects.
+Passionate and hardworking with penchant for meeting deadlines. 
+Interested in role with company promoting best practices and offering diverse customer projects. 
+Quickly learn and master new technologies and working in both team and self-directed settings.
 
 
 What am about :
 
-<!--
-- 🤔 I’m looking for help with @React.js
--->
 - 🔭 I’m currently working workport (Onboarding company) 
 - 👯 I’m looking to collaborate on node.js | API
 - 💬 Ask me about Business | Technology | Javascript | API design | Node backend 
 - ⚡ Fun fact: Talk is cheap, show me the code !
-
-
 
 
 ### Connect with me:
@@ -54,7 +48,6 @@ What am about :
 
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
 <br />
 
 <a href="https://github.com/acquahsamuel">
