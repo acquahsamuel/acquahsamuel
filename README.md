@@ -1,5 +1,5 @@
 ### Hi I'm Samuel 👋
-Self-motivated Software Developer with high level of experience working on multiple projects.
+Self-motivated Software Developer with a high level of experience working on multiple projects.
 Passionate and hardworking with penchant for meeting deadlines. 
 Interested in role with company promoting best practices and offering diverse customer projects. 
 Quickly learn and master new technologies and working in both team and self-directed settings.
@@ -29,11 +29,11 @@ Quickly learn and master new technologies and working in both team and self-dire
 <br />
 
 <a href="https://github.com/acquahsamuel">
- <img align="center" src=" https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=graywhite&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+ <img align="center" src=" https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 
 <a href="https://github.com/acquahsamuel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=graywhite" />
 </a>
 
 [website]: https://acquahsamuel.github.io/profile/
