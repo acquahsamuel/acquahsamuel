@@ -6,11 +6,6 @@
 📫 How to reach me: ...
 -->
 
-- 🌱 I’m currently learning ....
-<!--
-😄 Pronouns: ...
--->
-
 
 What am about :
 
@@ -63,11 +58,15 @@ What am about :
 <br />
 
 <a href="https://github.com/acquahsamuel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=dark&hide_langs_below=1" />
+  <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=dark&hide_langs_below=1" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+  
 </a>
 
 <a href="https://github.com/acquahsamuel">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&theme=dark&line_height=27" alt="Samuel's github stats"/>
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&show_icons=true&theme=dark&line_height=27" alt="Samuel's github stats"/> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&langs_count=8&hide=javascript,html,css,erlang" />
+  
 </a>
 
 
