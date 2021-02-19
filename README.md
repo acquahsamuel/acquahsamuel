@@ -13,7 +13,7 @@ What am about :
 - ⚡ Fun fact: Talk is cheap, show me the code !
 
 
-##### Languages and Tools:
+<!-- ##### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -40,7 +40,15 @@ What am about :
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br /> -->
+
+ ##### Languages and Tools:
+<img src="images/bootstrap.svg" width=60> | <img src="images/c.svg" width=60> | <img src="images/css3.svg" width=60> | <img src="images/flask.svg" width=60> | <img src="images/git.svg" width=60> | <img src="images/github.svg" width=60> | <img src="images/html5.svg" width=60> | <img src="images/javascript.svg" width=60> | <img src="images/linuxmint.svg" width=60> | <img src="images/mysql.svg" width=60> | <img src="images/postgresql.svg" width=60> | <img src="images/postman.svg" width=60> | <img src="images/python.svg" width=60> | <img src="images/react.svg" width=60> | <img src="images/sqlite.svg" width=60> | <img src="images/ubuntu.svg" width=60> | <img src="images/visualstudiocode.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
 <br />
+<br /> 
 
 ##### Connect with me:
 
