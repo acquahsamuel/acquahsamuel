@@ -62,7 +62,7 @@ What am about :
 </a>
 
 <a href="https://github.com/acquahsamuel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel" />
 </a>
 
 
