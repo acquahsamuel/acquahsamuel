@@ -8,8 +8,8 @@ Quickly learn and master new technologies and working in both team and self-dire
  ##### What am about :
 
 - 🔭 I’m currently working {Workport}
-- 👯 I’m looking to collaborate on node.js | API
-- 💬 Ask me about Business | Technology | Javascript | API design | Node backend 
+- 👯 I’m looking to collaborate on node.js & API
+- 💬 Let's talk about [Business][Startup][Javascript][API design][Node backend][Technology]
 - ⚡ Fun fact: Talk is cheap, show me the code !
 
 
