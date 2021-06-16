@@ -1,13 +1,14 @@
 ### Hi I'm Samuel 👋
+<!--
 Self-motivated Software Developer with a high level of experience working on multiple projects.
 Passionate and hardworking with penchant for meeting deadlines. 
 Interested in role with company promoting best practices and offering diverse customer projects. 
 Quickly learn and master new technologies and working in both team and self-directed settings.
-
+-->
 
  ##### What am about :
 
-- 🔭 I’m currently working {Workport}
+- 🔭 I’m currently blonder {css framework} 
 - 👯 I’m looking to collaborate on node.js & API
 - 💬 Let's talk about [Business][Startup][Javascript][API design][Node backend][Technology]
 - ⚡ Fun fact: Talk is cheap, show me the code !
