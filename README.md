@@ -8,7 +8,7 @@ Quickly learn and master new technologies and working in both team and self-dire
 
  ##### What am about :
 
-- 🔭 I’m currently blonder {css framework} 
+- 🔭 I’m currently working on blonder {css framework} 
 - 👯 I’m looking to collaborate on node.js & API
 - 💬 Let's talk about [Business][Startup][Javascript][API design][Node backend][Technology]
 - ⚡ Fun fact: Talk is cheap, show me the code !
