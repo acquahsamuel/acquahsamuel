@@ -1,7 +1,5 @@
-[readme]/Readme.md
-
 ### Quick Highlight 
-* Open Source enthusiate
+* Open Source enthusiast
 * Extensive experience in Javascript, Node and PHP
 * 2+ years of professional experience in the software industry
 * Passionate in developing distributed system using microservice architecture.
