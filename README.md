@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=dark&show_icons=true&line_height=30" />
 </a>
 <a href="https://github.com/acquahsamuel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark&theme=nightowl&line_height=30" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel=dark&theme=nightowl&layout=compact&line_height=30" /> 
 </a>
 
 [website]: https://acquahsamuel.github.io/profile/
