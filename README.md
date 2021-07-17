@@ -1,4 +1,7 @@
 ### Hi I'm Samuel 👋
+
+Javascript && Open Source
+
 <!--
 Self-motivated Software Developer with a high level of experience working on multiple projects.
 Passionate and hardworking with penchant for meeting deadlines. 
