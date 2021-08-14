@@ -1,7 +1,7 @@
 ### Quick Highlight 
 * Open Source enthusiast
 * Extensive experience in Javascript, Node and PHP
-* 2+ years of professional experience in the software industry
+* 3+ years of professional experience in the software industry
 * Passionate in developing distributed system using microservice architecture.
 * Developed applications by following SOLID principles, clean architecture.
 * Open source enthusiast and love to write elegant code
