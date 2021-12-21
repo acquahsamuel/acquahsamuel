@@ -1,5 +1,4 @@
 ### Quick Highlight 
-* Open Source enthusiast
 * Extensive experience in Javascript, Node and PHP
 * Passionate in developing distributed system using microservice architecture.
 * Developed applications by following SOLID principles, clean architecture.
