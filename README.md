@@ -7,7 +7,7 @@
 <!-- * Experience in developing applications utilizing TDD  Unit and Integration testing -->
 
  #### What am about :
-- I’m currently working on workport [workport] 
+- I’m currently working on [workport] 
 - I’m looking to collaborate on node.js & API
 - Let's talk about [Business][Startup][Technology][API design]
 <br />
