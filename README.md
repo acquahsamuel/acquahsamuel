@@ -32,7 +32,7 @@
 
 Let's connect (_:)
 
-Linkedin : [Linkedin] <br>
+Linkedin : [Linkedin]  <br>
 Email :    iamsamuelacquah@gmail.com
 
 [Linkedin]: https://www.linkedin.com/in/acquahsamuel
