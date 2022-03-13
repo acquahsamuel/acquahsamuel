@@ -30,7 +30,7 @@
 [readme]:https://github.com/acquahsamuel/acquahsamuel/edit/master/README.md
 -->
 
-Let's connect (_:)
+Let's connect (:)
 
 Linkedin : [Linkedin]  <br>
 Email :    iamsamuelacquah@gmail.com
