@@ -1,4 +1,4 @@
-<!--
+
 ### Quick Highlight 
 * Extensive experience in Javascript, Node and PHP
 * Passionate in developing distributed system using microservice architecture.
@@ -6,9 +6,9 @@
 * Open source enthusiast and love to write elegant code
 * 3+ years of professional experience in the software industry 
 * Experience in developing applications utilizing TDD  Unit and Integration testing
---> 
 
-<!--
+
+
  #### What am about :
 - I’m currently working on [workport] 
 - I’m looking to collaborate on node.js & API
@@ -28,7 +28,6 @@
 [instagram]: https://www.instagram.com/acquah.samuel.io/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
 [readme]:https://github.com/acquahsamuel/acquahsamuel/edit/master/README.md
--->
 
 Let's connect (:)
 
