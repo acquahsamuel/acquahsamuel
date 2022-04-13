@@ -4,7 +4,6 @@
 * Passionate in developing distributed system using microservice architecture.
 * Developed applications by following SOLID principles, clean architecture.
 * Open source enthusiast and love to write elegant code
-* 3+ years of professional experience in the software industry 
 * Experience in developing applications utilizing TDD  Unit and Integration testing
 
 
