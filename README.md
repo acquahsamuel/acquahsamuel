@@ -8,7 +8,7 @@
 
 
 ### Technology Stacks
-- Language: Golang,Node
+- Language: Javascript,Node, Angular
 - DBMS: MySQL, PostgreSQL, MongoDB
 - API Spec : Rest, GrapQL
 - Infrastructure: Docker, Kubernetes, CI/CD
