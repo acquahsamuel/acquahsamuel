@@ -1,37 +1,43 @@
 
 ### Quick Highlight 
-* Extensive experience in Javascript, Node and PHP
+* Extensive experience in Javascript, Node and Angular
 * Passionate in developing distributed system using microservice architecture.
 * Developed applications by following SOLID principles, clean architecture.
 * Open source enthusiast and love to write elegant code
 * Experience in developing applications utilizing TDD  Unit and Integration testing
 
 
+### Technology Stacks
+- Language: Golang,Node
+- DBMS: MySQL, PostgreSQL, MongoDB
+- API Spec : Rest, GrapQL
+- Infrastructure: Docker, Kubernetes, CI/CD
 
  #### What am about :
-- I’m currently working on [workport] 
-- I’m looking to collaborate on node.js & API
-- Let's talk about [Business][Startup][Technology][API design]
-<br />
+- Remote Job Boards- [workio] 
+- VSCode theme - [Blonder]
+ <br />
 
 <a href="https://github.com/acquahsamuel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=graywhite&show_icons=true&line_height=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 
 <a href="https://github.com/acquahsamuel">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&langs_count=4&layout=default&how_icons=true&theme=graywhite"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=nord&langs_count=4&hide=ejs" />
 </a>
 
-[workport]: https://workport-client.herokuapp.com/
+[workport]: https://workio-demo.herokuapp.com/
 [website]: https://acquahsamuel.github.io/profile/
 [instagram]: https://www.instagram.com/acquah.samuel.io/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
 [readme]:https://github.com/acquahsamuel/acquahsamuel/edit/master/README.md
+[blonder] : 
 
+<!--
 Let's connect (:)
 
 Linkedin : [Linkedin]  <br>
 Email : iamsamuelacquah@gmail.com
-
 [Linkedin]: https://www.linkedin.com/in/acquahsamuel
+-->
 
