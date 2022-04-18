@@ -14,7 +14,7 @@
 - Infrastructure: Docker, Kubernetes, CI/CD
 
  #### What am about :
-- Remote Job Boards- [workio] 
+- Remote Job Board (SaSS)- [Workio] 
 - VSCode theme - [Blonder]
  <br />
 
@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=nord&langs_count=4&hide=ejs" />
 </a>
 
-[workport]: https://workio-demo.herokuapp.com/
+[workio]: https://workio-demo.herokuapp.com/
 [website]: https://acquahsamuel.github.io/profile/
 [instagram]: https://www.instagram.com/acquah.samuel.io/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
