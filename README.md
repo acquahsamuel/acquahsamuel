@@ -18,14 +18,15 @@
 - VSCode theme - [Blonder]
  <br />
 
-<a href="https://github.com/acquahsamuel">
+<!-- <a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 
 <a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=nord&langs_count=4&hide=ejs" />
 </a>
-
+ -->
+ 
 [workio]: https://workport.herokuapp.com/
 [website]: https://acquahsamuel.github.io/profile/
 [instagram]: https://www.instagram.com/acquah.samuel.io/
