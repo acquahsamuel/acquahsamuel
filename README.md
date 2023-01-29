@@ -27,19 +27,17 @@
 </a>
  -->
  
-[workio]: https://workport.herokuapp.com/
-[website]: https://acquahsamuel.github.io/profile/
+[workio]: https://workport-frontend.vercel.app/
+[website]: https://ng-news-qa1q6vlm8-acquahsamuel.vercel.app/profile
+
 [instagram]: https://www.instagram.com/acquah.samuel.io/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
 [readme]:https://github.com/acquahsamuel/acquahsamuel/edit/master/README.md
 [blonder]: https://marketplace.visualstudio.com/items?itemName=acquahsamuel.blonder&ssr=false#overview
 
 
-<!--
 Let's connect (:)
-
 Linkedin : [Linkedin]  <br>
 Email : iamsamuelacquah@gmail.com
 [Linkedin]: https://www.linkedin.com/in/acquahsamuel
--->
 
