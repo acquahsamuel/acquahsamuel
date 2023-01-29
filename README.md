@@ -8,14 +8,16 @@
 
 
 ### Technology Stacks
-- Language: Javascript,Node, Angular
-- DBMS: MySQL, PostgreSQL, MongoDB
+- Language: Javascript, Node, Typescript
+- Framework :  Angular++, Vue, React
+- DBMS: MySQL MongoDB
 - API Spec : Rest, GrapQL
-- Infrastructure: Docker, Kubernetes, CI/CD
+- Infrastructure: Docker, Kubernetes, CI/CD, Azure
 
  #### What am about :
 - Remote Job Board (SaSS)- [Workio] 
 - VSCode theme - [Blonder]
+- Sendr (Emailing Tool UI) - [Sendr]
  <br />
 
 <!-- <a href="https://github.com/acquahsamuel">
@@ -29,7 +31,7 @@
  
 [workio]: https://workport-frontend.vercel.app/
 [website]: https://ng-news-qa1q6vlm8-acquahsamuel.vercel.app/profile
-
+[sendr]: https://sendr-eight.vercel.app/
 [instagram]: https://www.instagram.com/acquah.samuel.io/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
 [readme]:https://github.com/acquahsamuel/acquahsamuel/edit/master/README.md
@@ -37,7 +39,6 @@
 
 
 Let's connect (:)
-Linkedin : [Linkedin]  <br>
-Email : iamsamuelacquah@gmail.com
-[Linkedin]: https://www.linkedin.com/in/acquahsamuel
 
+-Email : iamsamuelacquah@gmail.com
+<!-- -Linkedin: [Linkedin]: https://www.linkedin.com/in/acquahsamuel -->
