@@ -14,21 +14,22 @@
 - API Spec : Rest, GrapQL
 - Infrastructure: Docker, Kubernetes, CI/CD, Azure
 
- #### What am about :
+ #### Projects Queue :
 - Remote Job Board (SaSS)- [Workio] 
 - VSCode theme - [Blonder]
-- Sendr (Emailing Tool UI) - [Sendr]
+- Sendr (Emailing Tool UI) - [Sendr
+- Course Website - [courseWebsite]
+
  <br />
 
-<!-- <a href="https://github.com/acquahsamuel">
+<a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 
 <a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=nord&langs_count=4&hide=ejs" />
 </a>
- -->
- 
+
 [workio]: https://workport-frontend.vercel.app/
 [website]: https://ng-news-qa1q6vlm8-acquahsamuel.vercel.app/profile
 [sendr]: https://sendr-eight.vercel.app/
@@ -36,6 +37,7 @@
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
 [readme]:https://github.com/acquahsamuel/acquahsamuel/edit/master/README.md
 [blonder]: https://marketplace.visualstudio.com/items?itemName=acquahsamuel.blonder&ssr=false#overview
+[courseWebsite]: -https://acquahsamuel.github.io/course-website/
 
 
 Let's connect (:)
