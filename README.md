@@ -15,7 +15,7 @@
 - Infrastructure: Docker, Kubernetes, CI/CD, Azure
 
  #### Projects Queue :
-- Remote Job Board (SaSS)- [Workio] 
+- Remote Job Board (SaSS)- [Trenda] 
 - VSCode theme - [Blonder]
 - Sendr (Emailing Tool UI) - [Sendr]
 - Developer Expert track- [Course]
@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=nord&langs_count=4&hide=ejs" />
 </a>
 
-[workio]: https://workport-frontend.vercel.app/
+[Trenda]: https://trender-frontend.vercel.app
 [website]: https://ng-news-qa1q6vlm8-acquahsamuel.vercel.app/profile
 [sendr]: https://sendr-eight.vercel.app/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
