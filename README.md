@@ -15,7 +15,7 @@
 - Infrastructure: Docker, Kubernetes, CI/CD, Azure
 
  #### Projects Queue :
-- Remote Job Board (SaSS)- [Trenda] 
+- Social Marketplace(SaSS)- [Trenda] 
 - VSCode theme - [Blonder]
 - Sendr (Emailing Tool UI) - [Sendr]
 - Developer Expert track- [Course]
