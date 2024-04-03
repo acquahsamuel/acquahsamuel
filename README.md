@@ -15,12 +15,11 @@
 - Infrastructure: Docker, Kubernetes, CI/CD, Azure
 
  #### Projects Queue :
-- Social Marketplace(SaSS)- [Trenda] 
-- VSCode theme - [Blonder]
-- Sendr (Emailing Tool UI) - [Sendr]
-- Developer Expert track- [Course]
+- Social Marketplace(Startup)- [Trenda]
+- Microsoft VSCode theme (tool) - [Blonder]
+- Frontend Engineer Expert track (open-source)- [Course]
+  
  <br />
-
 <a href="https://github.com/acquahsamuel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=acquahsamuel&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
@@ -29,12 +28,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acquahsamuel&theme=nord&langs_count=4&hide=ejs" />
 </a>
 
-[Trenda]: https://trender-frontend.vercel.app
-[website]: https://ng-news-qa1q6vlm8-acquahsamuel.vercel.app/profile
+[Trenda]:  https://www.trenda.live
+[website]: "Coming"
 [sendr]: https://sendr-eight.vercel.app/
 [linkedin]: https://www.linkedin.com/in/acquahsamuel
 [blonder]: https://marketplace.visualstudio.com/items?itemName=acquahsamuel.blonder&ssr=false#overview
-[course]: https://acquahsamuel.github.io/course-website/
+[course]: https://acquahsamuel.github.io/course-website
 
 
 Let's connect (:)
