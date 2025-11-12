@@ -1,9 +1,9 @@
 
 ### Quick Highlight 
-✨ Experienced in Javascript, Nestjs/Node.js, and Angular
-🚀 Passionate about building distributed systems with microservices architecture
-💡 Focused on clean code, SOLID principles, and TDD (Unit/Integration testing)
-🌱 Open-source enthusiast, always aiming for elegant solutions
+✨* Experienced in Javascript, Nestjs/Node.js, and Angular
+🚀* Passionate about building distributed systems with microservices architecture
+💡* Focused on clean code, SOLID principles, and TDD (Unit/Integration testing)
+🌱 *Open-source enthusiast, always aiming for elegant solutions
 
 ### Technology Stacks
 - Language: Javascript, Node+Nestjs, Typescript
