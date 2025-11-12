@@ -1,21 +1,21 @@
 
 ### Quick Highlight 
-* Extensive experience in Javascript, Node and Angular
-* Passionate in developing distributed system using microservice architecture.
-* Developed applications by following SOLID principles, clean architecture.
-* Open source enthusiast and love to write elegant code
-* Experience in developing applications utilizing TDD  Unit and Integration testing
-
+✨ Experienced in Javascript, Nestjs/Node.js, and Angular
+🚀 Passionate about building distributed systems with microservices architecture
+💡 Focused on clean code, SOLID principles, and TDD (Unit/Integration testing)
+🌱 Open-source enthusiast, always aiming for elegant solutions
 
 ### Technology Stacks
-- Language: Javascript, Node, Typescript
+- Language: Javascript, Node+Nestjs, Typescript
 - Framework :  Angular++, Vue, React
 - DBMS: MySQL MongoDB
 - API Spec : Rest, GrapQL
 - Infrastructure: Docker, Kubernetes, CI/CD, Azure
 
- #### Projects Queue :
+ #### Projects :
 - Social Marketplace(Startup)- [Trenda]
+- EWale Pay (USSD Interaction) *714*22#
+- Cleansheet AI (AI Resume builder)
 - Microsoft VSCode theme (tool) - [Blonder]
 - Frontend Engineer Expert track (open-source)- [Course]
   
@@ -37,6 +37,5 @@
 
 
 Let's connect (:)
-
 -Email : iamsamuelacquah@gmail.com
 <!-- -Linkedin: [Linkedin]: https://www.linkedin.com/in/acquahsamuel -->
